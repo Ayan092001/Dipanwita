@@ -60,7 +60,7 @@ export default function Hero() {
           ...fade(0.7),
         }}
       >
-        Meri Pyaari Sweety
+        Meri Pyaari Mutki
       </h1>
 
       <p
