@@ -20,7 +20,7 @@ export default function Closing() {
 
       <Reveal>
         <p className="font-vibes" style={{ fontSize: "2.5rem", color: "#c0607a", lineHeight: 1.6 }}>
-          Mutki,
+          Sweety,
         </p>
         <p
           className="font-cormorant italic mt-2"
